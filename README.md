@@ -1,2 +1,2 @@
-# rust-algo-practice
+# rust-practice
 Practicing algorithms and stuff with Rust.
